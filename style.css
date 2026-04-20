@@ -1,0 +1,40 @@
+body{
+    box-sizing: border-box;
+    background-color: #D5E1EF;
+}
+img{
+    display: block;
+    border-radius: 10px;
+}
+.image{
+    padding: 1rem;
+}
+.wrap{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 5rem; 
+    border-radius: 10px;
+    width: 320px;
+    height: 499px;
+}
+.text{
+    text-align: center;
+}
+.inn-wrap{
+padding: 1rem;
+}
+.text1{
+    font-family: outfit sans-serif;
+    font-size: 22px;
+    line-height: 120%;
+    font-weight: bold;
+    color: #1F314F;
+}
+.text2{
+    font-family: outfit sans-serif;
+    font-size: 16px;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+    color: #68778D;
+}
