@@ -9,7 +9,7 @@ img{
 .image{
     padding: 1rem;
 }
-.wrap{
+main{
     background-color: white;
     width: 50%;
     margin: auto;
@@ -24,13 +24,13 @@ img{
 .inn-wrap{
 padding: 1rem;
 }
-.text1{
+ .text1{
     font-family: outfit sans-serif;
-    font-size: 22px;
+   font-size: 22px;
     line-height: 120%;
     font-weight: bold;
     color: #1F314F;
-}
+} 
 .text2{
     font-family: outfit sans-serif;
     font-size: 16px;
